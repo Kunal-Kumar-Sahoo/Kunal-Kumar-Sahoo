@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ### About Me 🚀
 🎓 I am a <b>class 12 student</b> and a <b>tinkerer</b> from Kendriya Vidyalaya No. 1 Gandhinagar, with huge passion for Computer Science and Physics. I like innovating various things in my surrounding and to implement my ideas through <b>Programming</b></br>
 👨‍💻  My skillsets include Python3, SQL, Linux and elementary level C/C++ and HTML. My most of the projects are CLI and GUI applications in Python3. </br>
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him<br>
 ![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=Kunal-Kumar-Sahoo&show_icons=true&hide_border=true)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kunal-Kumar-Sahoo.Kunal-Kumar-Sahoo)
