@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Kunal!](https://pdfhost.io/v/EVD9wiGDB_Kunals_Resumepdf.pdf) 
+## Hey there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Kunal](https://pdfhost.io/v/EVD9wiGDB_Kunals_Resumepdf.pdf) 
 
 <a href="https://www.linkedin.com/in/kunal-kumar-sahoo/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
