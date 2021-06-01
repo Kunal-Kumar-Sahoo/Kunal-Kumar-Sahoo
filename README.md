@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### About Me 🚀
 🎓 I am a <b>class 12 student</b> and a <b>tinkerer</b> from Kendriya Vidyalaya No. 1 Gandhinagar, with huge passion for <b>Computer Science</b>, <b>Physics</b> and <b>Mathematics</b>. I like innovating various things in my surrounding and to implement my ideas through <b>Programming</b></br>
-👨‍💻  My skillsets include <b>Python3, SQL, Linux</b> and <b>elementary level C/C++ and HTML</b>. My most of the projects are <b>CLI and GUI applications in Python3</b>. </br>
+👨‍💻  My skillsets include <b>Python3, SQL, Linux</b> and <b>elementary level C/C++ and HTML</b>. My most of the projects are <b>CLI</b> and <b>GUI applications</b> in Python3. </br>
 ![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=Kunal-Kumar-Sahoo&show_icons=true&hide_border=true&theme=react)
 <br />
 ![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-Kumar-Sahoo&theme=react&hide_border=true)
