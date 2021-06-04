@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/kunal.sahoo2003/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://t.me/kunal_kumar_sahoo">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
 <a href="https://www.youtube.com/channel/UC5qkTGwtnm_cvaUf61OnT5Q">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
