@@ -44,6 +44,5 @@ Here are some ideas to get you started:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-Kumar-Sahoo&theme=react&show_icons=true&hide_border=true" />
 </div><br />
 
-<!--![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-Kumar-Sahoo&theme=react&hide_border=true)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kunal-Kumar-Sahoo)-->
-<h2 align="center"><img width=10% align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Kunal-Kumar-Sahoo" alt="Visitor Count" /></h2>
+<!--![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-Kumar-Sahoo&theme=react&hide_border=true)-->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kunal-Kumar-Sahoo)
