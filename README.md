@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hey there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">!<br>I'm [Kunal Kumar Sahoo](https://pdfhost.io/v/9SqTTMqXw_Kunals_Resumepdf.pdf)
 
-<!--### 📫 You can reach me at: <br>
+### 📫 You can reach me at: <br>
 <a href="https://www.linkedin.com/in/kunal-kumar-sahoo/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/channel/UC5qkTGwtnm_cvaUf61OnT5Q">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<br />-->
+<br />
 
 ### About Me 🚀
 🎓 I am a <b>class 12 student</b> and a <b>tinkerer</b> from Kendriya Vidyalaya No. 1 Gandhinagar, with huge passion for <b>Computer Science</b>, <b>Physics</b> and <b>Mathematics</b>. I like innovating various things in my surrounding and to implement my ideas through <b>Programming</b></br>
