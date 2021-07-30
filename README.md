@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🎓 I am a <b>class 12 student</b> and a <b>tinkerer</b> from Kendriya Vidyalaya No. 1 Gandhinagar, with huge passion for <b>Computer Science</b>, <b>Physics</b> and <b>Mathematics</b>. I like innovating various things in my surrounding and to implement my ideas through <b>Programming</b></br>
+🎓 I am a <b>student</b> and a <b>tinkerer</b> with huge passion for <b>Computer Science</b>, <b>Physics</b> and <b>Mathematics</b>. I like innovating various things in my surrounding and to implement my ideas through <b>Programming</b></br>
 👨‍💻  My skillsets include <b>Python3, SQL, Linux</b> and <b>elementary level C/C++ and HTML</b>. My most of the projects are <b>CLI</b> and <b>GUI applications</b> in Python3. </br><br>
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kunal-Kumar-Sahoo&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br />
 <div align="center">
