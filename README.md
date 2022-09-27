@@ -46,3 +46,5 @@ Here are some ideas to get you started:
 
 <!--![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-Kumar-Sahoo&theme=react&hide_border=true)-->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kunal-Kumar-Sahoo)
+
+[![@kunalkumarsahoo's Holopin board](https://holopin.io/api/user/board?user=kunalkumarsahoo)](https://holopin.io/@kunalkumarsahoo)
