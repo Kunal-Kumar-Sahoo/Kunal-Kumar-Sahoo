@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">!<br>I'm [Kunal Kumar Sahoo](https://pdfhost.io/v/9SqTTMqXw_Kunals_Resumepdf.pdf)
+# Hey there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">!<br>I'm [Kunal Kumar Sahoo](https://kunal-kumar-sahoo.github.io/resume/cv.pdf)
 
 ### 📫 You can reach me at: <br>
 <a href="https://www.linkedin.com/in/kunal-kumar-sahoo/">
