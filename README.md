@@ -40,11 +40,12 @@ Here are some ideas to get you started:
 👨‍💻  My skillsets include <b>Python3, SQL, Linux</b> and <b>elementary level C/C++ and HTML</b>. My most of the projects are <b>CLI</b> and <b>GUI applications</b> in Python3. </br><br>
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kunal-Kumar-Sahoo&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br />
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kunal-Kumar-Sahoo&theme=react&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-Kumar-Sahoo&theme=react&show_icons=true&hide_border=true" />
+ <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kunal-Kumar-Sahoo&theme=react&show_icons=true&hide_border=true" />-->
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-Kumar-Sahoo&theme=react&show_icons=true&hide_border=true" />
 </div><br />
 
 <!--![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-Kumar-Sahoo&theme=react&hide_border=true)-->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kunal-Kumar-Sahoo)
+
 
 [![@kunalkumarsahoo's Holopin board](https://holopin.io/api/user/board?user=kunalkumarsahoo)](https://holopin.io/@kunalkumarsahoo)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kunal-Kumar-Sahoo)
