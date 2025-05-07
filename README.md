@@ -3,7 +3,7 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Kunal</h1>
-<h3 align="center">Machine Learning and Computer Vision Engineer. I Build ML Pipelines and Computer Vision Applications.</h3>
+<h3 align="center">Machine Learning Engineer and Roboticist. I Build ML Pipelines and Deep Learning Applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kunal-Kumar-Sahoo&label=Profile%20views&color=0e75b6&style=flat-square" alt="kunal-kumar-sahoo" /> </p>
 
