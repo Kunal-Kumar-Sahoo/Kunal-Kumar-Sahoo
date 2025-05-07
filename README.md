@@ -11,7 +11,7 @@
 
 <!-- 📷 I post videos and tutorials on [https://www.youtube.com/channel/UCpABUkWm8xMt5XmGcFb3EFg](https://www.youtube.com/channel/UCpABUkWm8xMt5XmGcFb3EFg)/ -->
 
-- 💬 Talking about **Deep Learning, AI, Computer Vision, Robotics**
+- 💬 Talking about **Large Language Models, Deep Reinforcement Learning, Deep Learning, and Robotics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
