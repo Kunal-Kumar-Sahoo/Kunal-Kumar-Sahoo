@@ -1,27 +1,57 @@
-<!--
-[![@kunalkumarsahoo's Holopin board](https://holopin.io/api/user/board?user=kunalkumarsahoo)](https://holopin.io/@kunalkumarsahoo)
--->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Kunal</h1>
-<h3 align="center">Machine Learning Engineer and Roboticist. I Build ML Pipelines and Deep Learning Applications.</h3>
+# Kunal Kumar Sahoo
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kunal-Kumar-Sahoo&label=Profile%20views&color=0e75b6&style=flat-square" alt="kunal-kumar-sahoo" /> </p>
+### 🤖 Researching Embodied Intelligence & Physically-Grounded AI
 
-<p align="left"> <a href="https://twitter.com/KunalKSahoo" target="blank"><img src="https://img.shields.io/twitter/follow/KunalKSahoo?logo=twitter&style=for-the-badge" alt="KunalKSahoo" /></a> </p>
+[![Website](https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kunal-kumar-sahoo.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunal-kumar-sahoo)
+[![X](https://img.shields.io/badge/X-%40KunalKSahoo-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KunalKSahoo)
+[![Blog](https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://kunalkumarsahooai.hashnode.dev)
 
-<!-- 📷 I post videos and tutorials on [https://www.youtube.com/channel/UCpABUkWm8xMt5XmGcFb3EFg](https://www.youtube.com/channel/UCpABUkWm8xMt5XmGcFb3EFg)/ -->
+</div>
 
-- 💬 Talking about **Large Language Models, Deep Reinforcement Learning, Deep Learning, and Robotics**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/KunalKSahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nielsencv_ai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kunal-kumar-sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolaiai" height="30" width="40" /></a>
-</p>
+### 🚀 What I'm Working On
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+I am currently a PhD student exploring the intersection of **Deep Reinforcement Learning, Physics, and Robotics**. My core research focuses on bridging the gap between abstract AI reasoning and physical common sense.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kunal-Kumar-Sahoo&show_icons=true&theme=dark&locale=en" alt="Kunal-Kumar-Sahoo" /></p>
+I am actively building and looking for collaborators on projects involving:
+* **Physically-Grounded Reasoning:** Teaching foundation models to understand causal world models through exploration].
+* **Vision-Language-Action (VLA) Models:** Integrating multimodal inputs for robotic manipulation.
+* **Physics-Informed Neural Networks:** Embedding physical laws into deep learning architectures for better sample efficiency.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-Kumar-Sahoo&theme=dark" alt="Kunal-Kumar-Sahoo" /></p>
+---
+
+### 🛠️ Technical Arsenal
+
+I focus on tools that enable **scalable simulation** and **real-world deployment**.
+
+| Domain | Stack |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white) |
+| **DL & RL** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Stable Baselines 3](https://img.shields.io/badge/-Stable_Baselines_3-4B8BBE) ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?logo=huggingface&logoColor=black) |
+| **Robotics** | ![ROS](https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white) ![MuJoCo](https://img.shields.io/badge/-MuJoCo-A0A0A0) ![PyBullet](https://img.shields.io/badge/-PyBullet-FFA000) |
+| **Edge AI** | ![Jetson](https://img.shields.io/badge/-NVIDIA_Jetson-76B900?logo=nvidia&logoColor=white) (Optimization & Deployment) |
+
+---
+
+### 🤝 Collaboration & Research Interests
+
+I am always open to discussing ideas or collaborating on papers/code in the following areas:
+
+* **Sim-to-Real Transfer:** How to effectively transfer policies trained in **MuJoCo/Isaac Gym** to real hardware like the **Franka Emika Panda** or **Hello Stretch 3**.
+* **Edge Intelligence:** Optimizing DNN training and inference on edge devices (Jetson Nano/Orin) — see my work on *Pagoda* and *Fulcrum*.
+* **Multi-Agent Systems:** Experience with traffic control optimization using MARL.
+
+> **Note to Contributors:** If you are working on **World Models** or **VLA architectures**, I would love to connect and compare notes!
+
+---
+
+### 💬 Let's Chat About...
+
+While I love code, I believe the best ideas come from interdisciplinary discussions. Hit me up if you want to talk about:
+* **Philosophy of Mind:** Connectionism, Embodiment, and Reasoning.
+* **CS Education:** How we teach complex AI concepts (I have experience mentoring and teaching).
+* **The Future of Robotics:** From rigid manipulators to soft robotics and human-robot teaming.
