@@ -1,0 +1,6 @@
+- name: Checkout termfetch
+  uses: actions/checkout@v7
+  with:
+    repository: Kunal-Kumar-Sahoo/termfetch
+    ref: main
+    path: generator

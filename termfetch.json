@@ -1,0 +1,85 @@
+{
+  "github": "Kunal-Kumar-Sahoo",
+  "image": "assets/portrait.png",
+  "imageCols": 110,
+  "charset": "ascii",
+  "coloredImage": true,
+  "contrast": 1.25,
+  "brightness": 1.0,
+  "gamma": 0.9,
+  "colorStep": 4,
+  "invert": false,
+  "shadowLift": 0.18,
+  "preserveForeground": true,
+  "theme": "github-dark",
+  "windowTitle": "",
+  "chrome": true,
+  "fontSize": 12,
+  "artFontSize": 8,
+  "panelAlign": "middle",
+  "leaders": true,
+  "panelChars": 52,
+  "titleRule": "inline",
+  "valueWrap": 0,
+  "imageCaption": "The future is autonomous. The debugging, unfortunately, is not.",
+  "captionFontSize": 12,
+  "captionGap": 14,
+  "interestColumnGap": 5,
+  "languageMode": "repos",
+  "topLanguages": 5,
+  "sections": [
+    {
+      "title": "{{username}}@github.com",
+      "fields": [
+        ["Name", "{{name}}"],
+        ["Role", "Doctoral Student"],
+        ["Institution", "Indian Institute of Technology Delhi"],
+        ["Location", "New Delhi, India"]
+      ]
+    },
+    {
+      "title": "Areas of Interest",
+      "layout": "grid",
+      "fields": [
+        "Robot Learning",
+        "World Modeling",
+        "Reinforcement Learning",
+        "Computer Vision",
+        "Representation Learning",
+        "Multi-Agent Systems"
+      ]
+    },
+    {
+      "title": "Development",
+      "fields": [
+        ["Languages", "Python, C/C++, Java, Julia, Dart"],
+        ["ML", "PyTorch, Keras, FastAI, Scikit-learn"],
+        ["CV", "OpenCV, Ultralytics, SAM2, MediaPipe"],
+        ["LLMs", "Hugging Face, DeepSpeed, Unsloth, Ollama"],
+        ["Agents", "LangChain, LangGraph, LlamaIndex, PydanticAI"],
+        ["RL", "SB3, Gymnasium, TorchRL, PufferLib"],
+        ["Robotics", "ROS, LeRobot, MuJoCo, PyBullet, Isaac Lab"],
+        ["Dev Tools", "Linux, Git, Docker, CMake"],
+        ["Backend", "Flask, Streamlit, MySQL, PostgreSQL, MongoDB, AWS, GCP"]
+      ]
+    },
+    {
+      "title": "GitHub Stats",
+      "fields": [
+        ["Repositories", "{{repos}}"],
+        ["Stars", "{{stars}}"],
+        ["Followers", "{{followers}}"],
+        ["Forks", "{{forks}}"]
+      ]
+    },
+    {
+      "title": "Contact Me",
+      "fields": [
+        ["LinkedIn", "linkedin.com/in/kunal-kumar-sahoo"],
+        ["X", "x.com/KunalKSahoo"],
+        ["Email", "kunal.kumar.sahoo@scai.iitd.ac.in"],
+        ["Website", "kunal-kumar-sahoo.github.io"]
+      ]
+    }
+  ]
+}

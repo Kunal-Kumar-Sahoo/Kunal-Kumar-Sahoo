@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Temporary GitHub Actions assets
+assets/portrait.png
+private-assets/
+generator/
+profile-preview.txt
+
+# Secrets
+.env
+.env.*
+!.env.example
