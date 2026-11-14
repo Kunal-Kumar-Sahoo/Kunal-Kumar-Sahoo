@@ -1,0 +1,102 @@
+name: Update Profile Card
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "23 4 * * 1"
+
+  push:
+    branches:
+      - main
+    paths:
+      - "termfetch.json"
+      - ".github/workflows/update-profile-card.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile-card
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the public profile repository.
+      - name: Checkout profile repository
+        uses: actions/checkout@v7
+
+      # Checkout your customized termfetch fork.
+      - name: Checkout termfetch
+        uses: actions/checkout@v7
+        with:
+          repository: Kunal-Kumar-Sahoo/termfetch
+          ref: main
+          path: generator
+          persist-credentials: false
+
+      # Retrieve the portrait from the private repository.
+      - name: Checkout private profile assets
+        uses: actions/checkout@v7
+        with:
+          repository: Kunal-Kumar-Sahoo/profile-assets
+          ref: main
+          token: ${{ secrets.PROFILE_ASSETS_TOKEN }}
+          path: private-assets
+          persist-credentials: false
+
+      # Set up Python.
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: generator/pyproject.toml
+
+      # Install the customized generator.
+      - name: Install termfetch
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install ./generator
+
+      # Prepare the image at the path expected by termfetch.json.
+      - name: Prepare portrait
+        run: |
+          test -s private-assets/portrait.png
+          mkdir -p assets
+          cp private-assets/portrait.png assets/portrait.png
+
+      # Generate the SVG.
+      - name: Generate profile card
+        run: |
+          test -f termfetch.json
+
+          python -m termfetch \
+            --config termfetch.json \
+            --out profile-card.svg
+
+          test -s profile-card.svg
+
+      # Remove temporary copies of private assets and source code.
+      - name: Clean temporary files
+        if: always()
+        run: |
+          rm -rf assets private-assets generator
+
+      # Commit only the generated SVG.
+      - name: Commit updated profile card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile-card.svg
+
+          if git diff --cached --quiet; then
+            echo "Profile card is already up to date."
+          else
+            git commit -m "Update profile card"
+            git push
+          fi
